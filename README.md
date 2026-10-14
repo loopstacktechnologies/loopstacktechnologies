@@ -1,4 +1,4 @@
-# LoopStack Technologies
+# Loop Stack Technologies
 
 **Building modern digital solutions for the web.**
 
