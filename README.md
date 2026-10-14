@@ -2,7 +2,7 @@
 
 **Building modern digital solutions for the web.**
 
-LoopStack Technologies is a technology company focused on building practical, modern, and user-friendly web products.
+Loop Stack Technologies is a technology company focused on building practical, modern, and user-friendly web products.
 
 We are currently working on our **SEO Tools platform**, designed to help website owners, developers, marketers, and businesses improve their online presence through simple and powerful SEO utilities.
 
@@ -18,7 +18,7 @@ If you have an idea, collaboration opportunity, or simply want to get in touch, 
 
 ## 📬 Contact
 
-**LoopStack Technologies**
+**Loop Stack Technologies**
 
 📧 **Email:** [loopstacktechnologies@gmail.com](mailto:loopstacktechnologies@gmail.com)
 
@@ -32,6 +32,6 @@ We're currently building our web presence and working toward launching our produ
 
 ---
 
-### © LoopStack Technologies
+### © Loop Stack Technologies
 
 Building useful technology for the modern web.
